@@ -1,0 +1,12 @@
+﻿  AddUserForm.cpp
+C:\Users\danii\source\repos\Laba44444444\Laboratorny4\AddUserForm.cpp(15,23): warning C4101: e: неиспользованная локальная переменная
+C:\Users\danii\source\repos\Laba44444444\Laboratorny4\AddUserForm.cpp(31,23): warning C4101: e: неиспользованная локальная переменная
+  DataForm.cpp
+  Function.cpp
+  main.cpp
+  MainForm.cpp
+C:\Users\danii\source\repos\Laba44444444\Laboratorny4\MainForm.cpp(73,20): warning C4101: e: неиспользованная локальная переменная
+  Создание кода...
+  AddUserForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+MainForm.obj : warning LNK4248: неразрешенная лексема TypeRef (01000035) для "sqlite3"; образ нельзя запустить
+  Laboratorny4.vcxproj -> C:\Users\danii\source\repos\Laba44444444\x64\Debug\Laboratorny4.exe

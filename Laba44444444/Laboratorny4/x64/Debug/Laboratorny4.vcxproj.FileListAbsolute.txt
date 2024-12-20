@@ -1,0 +1,5 @@
+C:\Users\danii\source\repos\Laba44444444\Laboratorny4\x64\Debug\Laboratorny4.vcxproj.AssemblyReference.cache
+C:\Users\danii\source\repos\Laba44444444\Laboratorny4\x64\Debug\Laboratorny4.AddUserForm.resources
+C:\Users\danii\source\repos\Laba44444444\Laboratorny4\x64\Debug\Laboratorny4.DataForm.resources
+C:\Users\danii\source\repos\Laba44444444\Laboratorny4\x64\Debug\Laboratorny4.MainForm.resources
+C:\Users\danii\source\repos\Laba44444444\Laboratorny4\x64\Debug\Laboratorny4.vcxproj.GenerateResource.cache
